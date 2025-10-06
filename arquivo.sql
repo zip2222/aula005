@@ -1,2 +1,2 @@
 select *
-from teste 
+from teste teste
