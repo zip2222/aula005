@@ -1,3 +1,3 @@
 select *
 from datebasepull
-join 
+join git co
